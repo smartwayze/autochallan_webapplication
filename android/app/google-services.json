@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "39047581394",
+    "project_id": "automaticchallangenerator",
+    "storage_bucket": "automaticchallangenerator.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39047581394:android:560c7ce05110ed834a270b",
+        "android_client_info": {
+          "package_name": "com.example.automatic_challan_generator"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXPVCKjvvSWyYsZTCRbsPX9I4GZ6vphr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
