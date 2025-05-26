@@ -1,0 +1,52 @@
+Vehicle Number,Vehicle Type,Vehicle Color,Parking Location,Parking Time,Parking Duration,Challan Number,Challan Date,Challan Amount,Challan Reason,Owner Name,Owner Address,Owner Contact
+LEA-4532,Car,White,Lahore,14:35,2 hours,CH-12567,4/5/2025,2000,Wrong Parking,Ahmed Khan,"123 Mall Road, Lahore",3001234567
+KHI-8934,Motorcycle,Black,Karachi,16:12,1 hour,CH-98532,4/12/2025,500,Wrong Parking,Bilal Aslam,"45 Garden East, Karachi",3023456789
+ISB-6701,Truck,Blue,Islamabad,11:45,3 hours,CH-54321,4/20/2025,3500,Wrong Parking,Saeed Akhtar,"G-10 Markaz, Islamabad",3039876543
+BGL-3219,Bus,Red,Multan,9:20,4 hours,CH-11223,4/7/2025,4000,Wrong Parking,Shahid Ali,"14 Hussain Agahi, Multan",3027654321
+LEA-7823,Van,Silver,Faisalabad,18:05,1 hour,CH-77219,4/10/2025,1500,Wrong Parking,Imran Raza,"90 Jinnah Colony, Faisalabad",3031239876
+KHI-4539,Car,Black,Karachi,13:55,2 hours,CH-88712,4/16/2025,2500,Wrong Parking,Usman Farooq,"Block 7, Gulshan, Karachi",3014568923
+ISB-2341,Motorcycle,White,Islamabad,17:22,1 hour,CH-30011,4/21/2025,500,Wrong Parking,Hassan Qureshi,"I-8 Sector, Islamabad",3005431234
+BGL-9284,Car,Green,Quetta,12:35,3 hours,CH-64325,4/18/2025,1800,Wrong Parking,Waqas Anwar,"Zarghoon Road, Quetta",3019874562
+LEA-6723,Truck,Blue,Lahore,10:10,5 hours,CH-99013,4/14/2025,3500,Wrong Parking,Riaz Malik,"Model Town, Lahore",3036743129
+KHI-4317,Van,Silver,Karachi,15:42,2 hours,CH-10312,4/9/2025,2000,Wrong Parking,Taimoor Ali,"Saddar, Karachi",3026897123
+LEA-8721,Car,Black,Lahore,11:15,2 hours,CH-28391,4/3/2025,2200,Wrong Parking,Ali Haider,"Shalimar Town, Lahore",3001231231
+KHI-6390,Bus,White,Karachi,14:22,3 hours,CH-12189,4/8/2025,4100,Wrong Parking,Salman Tariq,"Clifton, Karachi",3013245678
+ISB-1289,Car,Silver,Islamabad,18:05,1 hour,CH-88991,4/12/2025,2000,Wrong Parking,Zain Raza,"F-11, Islamabad",3029871234
+BGL-9004,Motorcycle,Green,Quetta,13:30,2 hours,CH-72991,4/15/2025,600,Wrong Parking,Fahad Arif,"Brewery Road, Quetta",3014567234
+LEA-3417,Truck,Red,Lahore,17:00,4 hours,CH-33678,4/19/2025,3700,Wrong Parking,Asif Nazir,"Gulberg, Lahore",3015647892
+KHI-8881,Van,White,Karachi,11:50,2 hours,CH-27763,4/20/2025,1800,Wrong Parking,Umar Yasin,"Garden West, Karachi",3028451239
+ISB-4345,Car,Silver,Islamabad,15:22,3 hours,CH-55287,4/10/2025,2000,Wrong Parking,Naveed Shah,"G-11, Islamabad",3036782345
+BGL-6753,Bus,Blue,Multan,9:45,4 hours,CH-12873,4/13/2025,4500,Wrong Parking,Danish Javed,"Nawan Shehr, Multan",3021345789
+LEA-9054,Car,Green,Lahore,13:35,1 hour,CH-44551,4/7/2025,1900,Wrong Parking,Sami Shah,"DHA Phase 5, Lahore",3014786543
+KHI-4572,Motorcycle,Black,Karachi,12:55,2 hours,CH-98122,4/22/2025,550,Wrong Parking,Zeeshan Ali,"Malir, Karachi",3017895231
+ISB-5643,Truck,Blue,Islamabad,16:05,5 hours,CH-56213,4/18/2025,3800,Wrong Parking,Hammad Bashir,"H-13, Islamabad",3026789012
+BGL-8391,Van,Red,Quetta,10:45,3 hours,CH-12039,4/9/2025,2000,Wrong Parking,Kashif Nadeem,"Circular Road, Quetta",3014872123
+LEA-2309,Car,White,Lahore,9:30,2 hours,CH-66721,4/3/2025,2000,Wrong Parking,Noman Aftab,"Ichhra, Lahore",3025893217
+KHI-7893,Bus,Silver,Karachi,17:35,4 hours,CH-22133,4/6/2025,4300,Wrong Parking,Ahsan Malik,"Lyari, Karachi",3016549876
+ISB-3498,Car,Black,Islamabad,11:25,3 hours,CH-73198,4/19/2025,2000,Wrong Parking,Yousuf Ali,"F-6, Islamabad",3025648291
+BGL-8917,Truck,Blue,Multan,12:35,5 hours,CH-89343,4/8/2025,3700,Wrong Parking,Umair Anwar,"Mumtazabad, Multan",3012458793
+LEA-1234,Car,Silver,Lahore,13:40,1 hour,CH-33456,4/5/2025,2100,Wrong Parking,Azam Nisar,"Jail Road, Lahore",3017654321
+KHI-5567,Bus,White,Karachi,15:20,3 hours,CH-45781,4/12/2025,4000,Wrong Parking,Sohail Iqbal,"Shah Faisal Colony, Karachi",3024657890
+ISB-7788,Car,Black,Islamabad,9:50,2 hours,CH-98371,4/7/2025,2000,Wrong Parking,Rehan Saeed,"H-9, Islamabad",3012938475
+BGL-6632,Motorcycle,Red,Quetta,17:30,1 hour,CH-38455,4/18/2025,600,Wrong Parking,Adeel Farooq,"Sariab Road, Quetta",3018974563
+LEA-4455,Truck,Blue,Lahore,12:05,4 hours,CH-23487,4/10/2025,3700,Wrong Parking,Haseeb Khan,"Johar Town, Lahore",3012657890
+KHI-7789,Van,White,Karachi,16:15,3 hours,CH-22998,4/14/2025,1900,Wrong Parking,Fawad Malik,"North Nazimabad, Karachi",3024789123
+ISB-9988,Car,Green,Islamabad,10:50,2 hours,CH-33145,4/21/2025,2000,Wrong Parking,Yasir Mehmood,"G-13, Islamabad",3012789356
+BGL-5621,Bus,Black,Multan,13:25,4 hours,CH-77890,4/8/2025,4500,Wrong Parking,Junaid Akbar,"Gulgasht Colony, Multan",3014567890
+LEA-7654,Motorcycle,Silver,Lahore,14:05,1 hour,CH-56123,4/22/2025,500,Wrong Parking,Mubeen Shah,"Shahdara, Lahore",3017894321
+KHI-1239,Truck,White,Karachi,11:35,5 hours,CH-92345,4/20/2025,3600,Wrong Parking,Danish Ali,"PECHS, Karachi",3015789230
+ISB-4334,Car,Blue,Islamabad,16:45,3 hours,CH-11245,4/15/2025,2000,Wrong Parking,Imran Hussain,"F-7, Islamabad",3024783214
+BGL-3344,Van,Black,Quetta,9:10,2 hours,CH-78652,4/12/2025,1800,Wrong Parking,Naveed Baig,"Nawa Killi, Quetta",3016789234
+LEA-9098,Car,Green,Lahore,13:50,1 hour,CH-88776,4/18/2025,1900,Wrong Parking,Arif Iqbal,"Garden Town, Lahore",3016789531
+KHI-5500,Bus,Red,Karachi,15:10,4 hours,CH-55345,4/6/2025,4200,Wrong Parking,Sameer Tariq,"Clifton, Karachi",3017845671
+ISB-6678,Truck,Silver,Islamabad,12:25,5 hours,CH-99999,4/16/2025,3700,Wrong Parking,Khurram Shahzad,"G-10, Islamabad",3012987643
+BGL-9001,Car,Blue,Quetta,11:55,3 hours,CH-98754,4/7/2025,2000,Wrong Parking,Awais Aslam,"Airport Road, Quetta",3018974321
+LEA-1100,Motorcycle,Black,Lahore,14:20,1 hour,CH-33489,4/4/2025,500,Wrong Parking,Salman Rafiq,"Shah Jamal, Lahore",3013876542
+KHI-4321,Van,Silver,Karachi,13:05,3 hours,CH-87643,4/19/2025,1800,Wrong Parking,Haider Zaman,"Korangi, Karachi",3015437891
+ISB-7890,Car,White,Islamabad,9:40,2 hours,CH-11223,4/9/2025,2000,Wrong Parking,Hassan Kamal,"H-11, Islamabad",3018765431
+BGL-5566,Truck,Green,Multan,12:30,5 hours,CH-33455,4/11/2025,3500,Wrong Parking,Tariq Waseem,"Bosan Road, Multan",3015678765
+LEA-4567,Car,Maroon,Lahore,12:10,2 hours,CH-44888,4/23/2025,2100,Wrong Parking,Zeeshan Ahmed,"Shadman, Lahore",3013456789
+KHI-8765,Motorcycle,Blue,Karachi,14:30,1 hour,CH-77856,4/24/2025,500,Wrong Parking,Saqib Nawaz,"Gulshan-e-Iqbal, Karachi",3019876543
+ISB-3344,Van,White,Islamabad,10:45,3 hours,CH-66432,4/25/2025,1800,Wrong Parking,Rizwan Ali,"G-9, Islamabad",3012348765
+BGL-9988,Car,Grey,Quetta,9:20,1 hour,CH-77845,4/23/2025,2000,Wrong Parking,Noman Khan,"Jinnah Road, Quetta",3014789632
+LEA-7650,Truck,Yellow,Lahore,16:00,4 hours,CH-11332,4/26/2025,3800,Wrong Parking,Faizan Raza,"Ferozepur Road, Lahore",3017654329
